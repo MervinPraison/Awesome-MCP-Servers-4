@@ -4,6 +4,18 @@
 
 ---
 
+## 所有语言的文档
+> 文档翻译招募中! [We're looking for translators](https://github.com/YuzeHao2023/Awesome-MCP-Servers/issues/1) to help translate this spec for everyone!
+
+**可以阅读如下语言的文档:**
+
+| Language | Link                                                                 |
+|----------|---------------------------------------------------------------------|
+| English  | [English](https://github.com/YuzeHao2023/Awesome-MCP-Servers?tab=readme-ov-file) |
+| 中文     | [中文](https://github.com/YuzeHao2023/Awesome-MCP-Servers/blob/main/README_zh_CN.md) |
+
+---
+
 ## ⚠️ 安全警告
 
 在没有适当沙箱隔离的情况下运行 MCP 服务器，可能会以宿主进程的权限执行任意代码，这会带来重大安全风险。

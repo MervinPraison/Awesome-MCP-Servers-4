@@ -1,3 +1,5 @@
+![](asserts/logo1.png)
+
 # Awesome MCP Servers ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 モデルコンテキストプロトコル（MCP）のサーバー、ツール、フレームワーク、クライアント、およびユーティリティの、キュレーションされたコミュニティ主導の一覧です。MCPはAIモデルが標準化されたサーバー実装を通じてローカルおよびリモートのリソースと安全にやり取りすることを可能にするオープンプロトコルです。本リストは…（原文省略部分の意図を保ちつつ、以下に続きます）[...]

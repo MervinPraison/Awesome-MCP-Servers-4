@@ -1,3 +1,5 @@
+![](asserts/logo1.png)
+
 # Awesome MCP Servers ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 一份經過整理的、社群驅動的優秀 Model Context Protocol (MCP) 伺服器、工具、框架、用戶端與實用工具清單。MCP 是一個開放協議，讓 AI 模型能透過標準化的伺服器實作，與本地與遠端資源安全互動。本專案聚焦於整理各式 MCP 伺服器與相關生態資源，並提供連結與分類以便探索。

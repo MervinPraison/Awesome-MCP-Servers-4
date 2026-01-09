@@ -1,3 +1,5 @@
+![](asserts/logo1.png)
+
 # Awesome MCP Servers ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 선별된 커뮤니티 기반의 훌륭한 Model Context Protocol (MCP) 서버, 도구, 프레임워크, 클라이언트 및 유틸리티 목록입니다. MCP는 AI 모델이 표준화된 서버 구현을 통해 로컬 및 원격 리소스와 안전하게 상호작용할 수 있도록 하는 오픈 프로토콜입니다.

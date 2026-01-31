@@ -472,6 +472,7 @@ Developer-focused MCP servers and tools.
 - Mastra/mcp (⭐) — https://github.com/mastra-ai/mastra/tree/main/packages/mcp
 - Bucket — https://github.com/bucketco/bucket-javascript-sdk/tree/main/packages/cli#model-context-protocol
 - DefangLabs/defang — https://github.com/DefangLabs/defang
+- jarp-mcp — https://github.com/tersePrompts/jarp-mcp
 - many others in Community Servers and Official Servers
 
 ---
@@ -647,6 +648,7 @@ Frameworks and scaffolding for building MCP servers:
 - oatpp-mcp — https://github.com/oatpp/oatpp-mcp
 - centralmind/gateway — https://github.com/centralmind/gateway
 - ToolHive — https://github.com/Stacklok/toolhive
+- fastMCP4J — https://github.com/tersePrompts/fastMCP4J
 - many others to simplify server creation, type-safety, and security best practices
 
 ---

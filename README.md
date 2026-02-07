@@ -370,6 +370,7 @@ Cloud vendors and orchestration.
 Automation platforms and workflow tools.
 
 - Make (⭐) — https://github.com/integromat/make-mcp-server
+- Make (2) — https://github.com/danishashko/make-mcp — Unofficial community fork with 200+ modules, auto-healing, and router support
 - Taskade (⭐) — https://github.com/taskade/mcp
 - Zapier — https://zapier.com/mcp
 - Pipedream — https://github.com/PipedreamHQ/pipedream/tree/master/modelcontextprotocol
@@ -683,3 +684,4 @@ If this project is helpful for you, please cite:
       howpublished = {\url{https://github.com/YuzeHao2023/Awesome-MCP-Servers}},
 }
 ```
+

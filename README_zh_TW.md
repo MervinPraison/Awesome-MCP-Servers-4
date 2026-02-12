@@ -548,6 +548,7 @@ AI 與機器學習服務整合：
 商城與市場平台整合：
 
 - Mercado Libre — https://mcp.mercadolibre.com/
+- Gunsnation — https://github.com/DynamicDeals/mcp-server-gunsnation
 - ShopSavvy（⭐） — https://github.com/shopsavvy/shopsavvy-mcp-server
 
 ---

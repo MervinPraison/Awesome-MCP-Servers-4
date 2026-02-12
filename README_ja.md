@@ -546,6 +546,7 @@ AI モデルおよび ML サービスとの統合。
 商取引およびマーケットプレイス統合。
 
 - Mercado Libre — https://mcp.mercadolibre.com/
+- Gunsnation — https://github.com/DynamicDeals/mcp-server-gunsnation
 - ShopSavvy (⭐) — https://github.com/shopsavvy/shopsavvy-mcp-server
 
 ---

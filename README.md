@@ -686,6 +686,6 @@ If this project is helpful for you, please cite:
       year={2025},
       publisher = {GitHub},
       journal = {GitHub repository},
-      howpublished = { rl{https://github.com/YuzeHao2023/Awesome-MCP-Servers}},
+      howpublished = {\url{https://github.com/YuzeHao2023/Awesome-MCP-Servers}},
 }
 ```

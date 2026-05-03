@@ -274,6 +274,7 @@
 
 网页抓取、搜索与处理。
 
+- Haunt — https://github.com/Darko893/mcp-server — AI-powered web scraping with Cloudflare bypass, JavaScript rendering, and structured data extraction. Pay-per-use API with free tier.
 - Puppeteer — https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer
 - Brave Search — https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search
 - Bright Data — https://github.com/luminati-io/brightdata-mcp
